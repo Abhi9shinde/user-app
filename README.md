@@ -40,6 +40,17 @@ ng generate service user
 ```bash
 ng serve
 ```
+## Change in
+1. app-routing.module.ts
+2. user.service.ts
+3. register.component.html
+4. register.component.ts
+5. login.component.html
+6. login.component.ts
+7. profile.component.html
+8. profile.component.ts
+9. app.module.ts (import FormModules)
+10. app.component.html
 
 
 
